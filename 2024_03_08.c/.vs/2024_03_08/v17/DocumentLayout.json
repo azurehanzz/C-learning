@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\D original\\study folder\\C\\C learning\\2024_03_08.c\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EAEBB019-D1D6-4BD9-BBC6-83832979A73B}|2024_03_08.vcxproj|C:\\D original\\study folder\\C\\C learning\\2024_03_08.c\\07.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EAEBB019-D1D6-4BD9-BBC6-83832979A73B}|2024_03_08.vcxproj|solutionrelative:07.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAEBB019-D1D6-4BD9-BBC6-83832979A73B}|2024_03_08.vcxproj|C:\\D original\\study folder\\C\\C learning\\2024_03_08.c\\06.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EAEBB019-D1D6-4BD9-BBC6-83832979A73B}|2024_03_08.vcxproj|solutionrelative:06.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAEBB019-D1D6-4BD9-BBC6-83832979A73B}|2024_03_08.vcxproj|C:\\D original\\study folder\\C\\C learning\\2024_03_08.c\\05.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EAEBB019-D1D6-4BD9-BBC6-83832979A73B}|2024_03_08.vcxproj|solutionrelative:05.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAEBB019-D1D6-4BD9-BBC6-83832979A73B}|2024_03_08.vcxproj|C:\\D original\\study folder\\C\\C learning\\2024_03_08.c\\04.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EAEBB019-D1D6-4BD9-BBC6-83832979A73B}|2024_03_08.vcxproj|solutionrelative:04.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAEBB019-D1D6-4BD9-BBC6-83832979A73B}|2024_03_08.vcxproj|C:\\D original\\study folder\\C\\C learning\\2024_03_08.c\\03.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EAEBB019-D1D6-4BD9-BBC6-83832979A73B}|2024_03_08.vcxproj|solutionrelative:03.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAEBB019-D1D6-4BD9-BBC6-83832979A73B}|2024_03_08.vcxproj|C:\\D original\\study folder\\C\\C learning\\2024_03_08.c\\02.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EAEBB019-D1D6-4BD9-BBC6-83832979A73B}|2024_03_08.vcxproj|solutionrelative:02.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAEBB019-D1D6-4BD9-BBC6-83832979A73B}|2024_03_08.vcxproj|C:\\D original\\study folder\\C\\C learning\\2024_03_08.c\\01.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EAEBB019-D1D6-4BD9-BBC6-83832979A73B}|2024_03_08.vcxproj|solutionrelative:01.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAEBB019-D1D6-4BD9-BBC6-83832979A73B}|2024_03_08.vcxproj|C:\\D original\\study folder\\C\\C learning\\2024_03_08.c\\08.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EAEBB019-D1D6-4BD9-BBC6-83832979A73B}|2024_03_08.vcxproj|solutionrelative:08.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "08.c",
+              "DocumentMoniker": "C:\\D original\\study folder\\C\\C learning\\2024_03_08.c\\08.c",
+              "RelativeDocumentMoniker": "08.c",
+              "ToolTip": "C:\\D original\\study folder\\C\\C learning\\2024_03_08.c\\08.c",
+              "RelativeToolTip": "08.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-08T05:18:06.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "07.c",
+              "DocumentMoniker": "C:\\D original\\study folder\\C\\C learning\\2024_03_08.c\\07.c",
+              "RelativeDocumentMoniker": "07.c",
+              "ToolTip": "C:\\D original\\study folder\\C\\C learning\\2024_03_08.c\\07.c",
+              "RelativeToolTip": "07.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-08T05:05:29.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "06.c",
+              "DocumentMoniker": "C:\\D original\\study folder\\C\\C learning\\2024_03_08.c\\06.c",
+              "RelativeDocumentMoniker": "06.c",
+              "ToolTip": "C:\\D original\\study folder\\C\\C learning\\2024_03_08.c\\06.c",
+              "RelativeToolTip": "06.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-08T04:15:55.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "05.c",
+              "DocumentMoniker": "C:\\D original\\study folder\\C\\C learning\\2024_03_08.c\\05.c",
+              "RelativeDocumentMoniker": "05.c",
+              "ToolTip": "C:\\D original\\study folder\\C\\C learning\\2024_03_08.c\\05.c",
+              "RelativeToolTip": "05.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-08T04:12:45.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "04.c",
+              "DocumentMoniker": "C:\\D original\\study folder\\C\\C learning\\2024_03_08.c\\04.c",
+              "RelativeDocumentMoniker": "04.c",
+              "ToolTip": "C:\\D original\\study folder\\C\\C learning\\2024_03_08.c\\04.c",
+              "RelativeToolTip": "04.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-08T02:26:04.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "03.c",
+              "DocumentMoniker": "C:\\D original\\study folder\\C\\C learning\\2024_03_08.c\\03.c",
+              "RelativeDocumentMoniker": "03.c",
+              "ToolTip": "C:\\D original\\study folder\\C\\C learning\\2024_03_08.c\\03.c",
+              "RelativeToolTip": "03.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-08T00:26:30.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "02.c",
+              "DocumentMoniker": "C:\\D original\\study folder\\C\\C learning\\2024_03_08.c\\02.c",
+              "RelativeDocumentMoniker": "02.c",
+              "ToolTip": "C:\\D original\\study folder\\C\\C learning\\2024_03_08.c\\02.c",
+              "RelativeToolTip": "02.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-07T23:44:49.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "01.c",
+              "DocumentMoniker": "C:\\D original\\study folder\\C\\C learning\\2024_03_08.c\\01.c",
+              "RelativeDocumentMoniker": "01.c",
+              "ToolTip": "C:\\D original\\study folder\\C\\C learning\\2024_03_08.c\\01.c",
+              "RelativeToolTip": "01.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-07T23:33:49.321Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
