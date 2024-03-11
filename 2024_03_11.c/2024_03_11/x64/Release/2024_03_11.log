@@ -1,0 +1,8 @@
+﻿  game.c
+C:\D original\study folder\C\C learning\2024_03_11\game.c(18,10): warning C4098: “initialBoard”:“void”函数返回值
+  正在生成代码
+  3 of 15 functions (20.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  2024_03_11.vcxproj -> C:\D original\study folder\C\C learning\2024_03_11\x64\Release\2024_03_11.exe
