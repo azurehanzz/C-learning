@@ -1,0 +1,4 @@
+﻿  04.c
+C:\D original\study folder\C\C learning\2024_03_14.c\04.c(28,14): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\D original\study folder\C\C learning\2024_03_14.c\04.c(32,16): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  2024_03_13.vcxproj -> C:\D original\study folder\C\C learning\2024_03_14.c\x64\Debug\2024_03_14.c.exe
