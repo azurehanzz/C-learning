@@ -1,0 +1,46 @@
+﻿  05.c
+C:\D original\study folder\C\C learning\2024_03_19\05.c(5,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  C:\D original\study folder\C\C learning\2024_03_19\05.c(5,9):
+  请考虑在格式字符串中使用“%zd”
+  
+C:\D original\study folder\C\C learning\2024_03_19\05.c(6,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  C:\D original\study folder\C\C learning\2024_03_19\05.c(6,9):
+  请考虑在格式字符串中使用“%zd”
+  
+C:\D original\study folder\C\C learning\2024_03_19\05.c(7,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  C:\D original\study folder\C\C learning\2024_03_19\05.c(7,9):
+  请考虑在格式字符串中使用“%zd”
+  
+C:\D original\study folder\C\C learning\2024_03_19\05.c(8,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  C:\D original\study folder\C\C learning\2024_03_19\05.c(8,9):
+  请考虑在格式字符串中使用“%zd”
+  
+C:\D original\study folder\C\C learning\2024_03_19\05.c(9,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  C:\D original\study folder\C\C learning\2024_03_19\05.c(9,9):
+  请考虑在格式字符串中使用“%zd”
+  
+C:\D original\study folder\C\C learning\2024_03_19\05.c(10,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  C:\D original\study folder\C\C learning\2024_03_19\05.c(10,9):
+  请考虑在格式字符串中使用“%zd”
+  
+C:\D original\study folder\C\C learning\2024_03_19\05.c(11,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  C:\D original\study folder\C\C learning\2024_03_19\05.c(11,9):
+  请考虑在格式字符串中使用“%zd”
+  
+C:\D original\study folder\C\C learning\2024_03_19\05.c(12,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  C:\D original\study folder\C\C learning\2024_03_19\05.c(12,9):
+  请考虑在格式字符串中使用“%zd”
+  
+C:\D original\study folder\C\C learning\2024_03_19\05.c(13,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  C:\D original\study folder\C\C learning\2024_03_19\05.c(13,9):
+  请考虑在格式字符串中使用“%zd”
+  
+C:\D original\study folder\C\C learning\2024_03_19\05.c(14,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  C:\D original\study folder\C\C learning\2024_03_19\05.c(14,9):
+  请考虑在格式字符串中使用“%zd”
+  
+C:\D original\study folder\C\C learning\2024_03_19\05.c(15,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  C:\D original\study folder\C\C learning\2024_03_19\05.c(15,9):
+  请考虑在格式字符串中使用“%zd”
+  
+  2024_03_19.vcxproj -> C:\D original\study folder\C\C learning\2024_03_19\x64\Debug\2024_03_19.exe
