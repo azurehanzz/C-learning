@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\D original\\study folder\\C\\C learning\\2024_03_22.c\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C479FAF9-15D8-425B-8228-C1F1DF36B441}|2024_03_22.c.vcxproj|C:\\D original\\study folder\\C\\C learning\\2024_03_22.c\\Struct_bit.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C479FAF9-15D8-425B-8228-C1F1DF36B441}|2024_03_22.c.vcxproj|solutionrelative:Struct_bit.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C479FAF9-15D8-425B-8228-C1F1DF36B441}|2024_03_22.c.vcxproj|C:\\D original\\study folder\\C\\C learning\\2024_03_22.c\\Struct_size.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C479FAF9-15D8-425B-8228-C1F1DF36B441}|2024_03_22.c.vcxproj|solutionrelative:Struct_size.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C479FAF9-15D8-425B-8228-C1F1DF36B441}|2024_03_22.c.vcxproj|C:\\D original\\study folder\\C\\C learning\\2024_03_22.c\\Struct.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C479FAF9-15D8-425B-8228-C1F1DF36B441}|2024_03_22.c.vcxproj|solutionrelative:Struct.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C479FAF9-15D8-425B-8228-C1F1DF36B441}|2024_03_22.c.vcxproj|C:\\D original\\study folder\\C\\C learning\\2024_03_22.c\\Struct_exmple.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C479FAF9-15D8-425B-8228-C1F1DF36B441}|2024_03_22.c.vcxproj|solutionrelative:Struct_exmple.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C479FAF9-15D8-425B-8228-C1F1DF36B441}|2024_03_22.c.vcxproj|C:\\D original\\study folder\\C\\C learning\\2024_03_22.c\\Struct_exmple2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C479FAF9-15D8-425B-8228-C1F1DF36B441}|2024_03_22.c.vcxproj|solutionrelative:Struct_exmple2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C479FAF9-15D8-425B-8228-C1F1DF36B441}|2024_03_22.c.vcxproj|C:\\D original\\study folder\\C\\C learning\\2024_03_22.c\\my_memmove.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C479FAF9-15D8-425B-8228-C1F1DF36B441}|2024_03_22.c.vcxproj|solutionrelative:my_memmove.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C479FAF9-15D8-425B-8228-C1F1DF36B441}|2024_03_22.c.vcxproj|C:\\D original\\study folder\\C\\C learning\\2024_03_22.c\\my_memcpy.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C479FAF9-15D8-425B-8228-C1F1DF36B441}|2024_03_22.c.vcxproj|solutionrelative:my_memcpy.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Struct_bit.c",
+              "DocumentMoniker": "C:\\D original\\study folder\\C\\C learning\\2024_03_22.c\\Struct_bit.c",
+              "RelativeDocumentMoniker": "Struct_bit.c",
+              "ToolTip": "C:\\D original\\study folder\\C\\C learning\\2024_03_22.c\\Struct_bit.c",
+              "RelativeToolTip": "Struct_bit.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-21T14:24:18.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Struct_size.c",
+              "DocumentMoniker": "C:\\D original\\study folder\\C\\C learning\\2024_03_22.c\\Struct_size.c",
+              "RelativeDocumentMoniker": "Struct_size.c",
+              "ToolTip": "C:\\D original\\study folder\\C\\C learning\\2024_03_22.c\\Struct_size.c",
+              "RelativeToolTip": "Struct_size.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-21T14:13:45.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Struct_exmple2.c",
+              "DocumentMoniker": "C:\\D original\\study folder\\C\\C learning\\2024_03_22.c\\Struct_exmple2.c",
+              "RelativeDocumentMoniker": "Struct_exmple2.c",
+              "ToolTip": "C:\\D original\\study folder\\C\\C learning\\2024_03_22.c\\Struct_exmple2.c",
+              "RelativeToolTip": "Struct_exmple2.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-21T14:09:09.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Struct_exmple.c",
+              "DocumentMoniker": "C:\\D original\\study folder\\C\\C learning\\2024_03_22.c\\Struct_exmple.c",
+              "RelativeDocumentMoniker": "Struct_exmple.c",
+              "ToolTip": "C:\\D original\\study folder\\C\\C learning\\2024_03_22.c\\Struct_exmple.c",
+              "RelativeToolTip": "Struct_exmple.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-21T14:02:20.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Struct.c",
+              "DocumentMoniker": "C:\\D original\\study folder\\C\\C learning\\2024_03_22.c\\Struct.c",
+              "RelativeDocumentMoniker": "Struct.c",
+              "ToolTip": "C:\\D original\\study folder\\C\\C learning\\2024_03_22.c\\Struct.c",
+              "RelativeToolTip": "Struct.c",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-21T13:55:43.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "my_memmove.c",
+              "DocumentMoniker": "C:\\D original\\study folder\\C\\C learning\\2024_03_22.c\\my_memmove.c",
+              "RelativeDocumentMoniker": "my_memmove.c",
+              "ToolTip": "C:\\D original\\study folder\\C\\C learning\\2024_03_22.c\\my_memmove.c",
+              "RelativeToolTip": "my_memmove.c",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAABIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-21T06:25:09.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "my_memcpy.c",
+              "DocumentMoniker": "C:\\D original\\study folder\\C\\C learning\\2024_03_22.c\\my_memcpy.c",
+              "RelativeDocumentMoniker": "my_memcpy.c",
+              "ToolTip": "C:\\D original\\study folder\\C\\C learning\\2024_03_22.c\\my_memcpy.c",
+              "RelativeToolTip": "my_memcpy.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-21T05:42:12.232Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
