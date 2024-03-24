@@ -1,0 +1,8 @@
+﻿  contact.c
+C:\D original\study folder\C\C learning\2024_03_24\contact.c(167,59): warning C4090: “函数”: 不同的“const”限定符
+C:\D original\study folder\C\C learning\2024_03_24\contact.c(167,50): warning C4113: “int (__cdecl *)(void *,void *)”和“_CoreCrtNonSecureSearchSortCompareFunction”的参数列表不同
+C:\D original\study folder\C\C learning\2024_03_24\contact.c(170,60): warning C4090: “函数”: 不同的“const”限定符
+C:\D original\study folder\C\C learning\2024_03_24\contact.c(170,50): warning C4113: “int (__cdecl *)(void *,void *)”和“_CoreCrtNonSecureSearchSortCompareFunction”的参数列表不同
+  test.c
+  正在生成代码...
+  2024_03_24.vcxproj -> C:\D original\study folder\C\C learning\2024_03_24\x64\Debug\2024_03_24.exe
