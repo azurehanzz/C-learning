@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\software for study\\C\\C learning\\2024_03_27.c\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52FE4017-C836-40FD-8F60-F2DA37C9547D}|2024_03_27.c.vcxproj|C:\\software for study\\C\\C learning\\2024_03_27.c\\fwrite.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{52FE4017-C836-40FD-8F60-F2DA37C9547D}|2024_03_27.c.vcxproj|solutionrelative:fwrite.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52FE4017-C836-40FD-8F60-F2DA37C9547D}|2024_03_27.c.vcxproj|C:\\software for study\\C\\C learning\\2024_03_27.c\\file_open.txt||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{52FE4017-C836-40FD-8F60-F2DA37C9547D}|2024_03_27.c.vcxproj|solutionrelative:file_open.txt||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "fwrite.c",
+              "DocumentMoniker": "C:\\software for study\\C\\C learning\\2024_03_27.c\\fwrite.c",
+              "RelativeDocumentMoniker": "fwrite.c",
+              "ToolTip": "C:\\software for study\\C\\C learning\\2024_03_27.c\\fwrite.c",
+              "RelativeToolTip": "fwrite.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-25T03:27:23.915Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "file_open.txt",
+              "DocumentMoniker": "C:\\software for study\\C\\C learning\\2024_03_27.c\\file_open.txt",
+              "RelativeDocumentMoniker": "file_open.txt",
+              "ToolTip": "C:\\software for study\\C\\C learning\\2024_03_27.c\\file_open.txt",
+              "RelativeToolTip": "file_open.txt",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-25T04:16:45.241Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
